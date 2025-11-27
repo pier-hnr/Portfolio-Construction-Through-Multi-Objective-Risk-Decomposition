@@ -1,0 +1,2 @@
+# Portfolio-Construction-Through-Multi-Objective-Risk-Decomposition
+This work introduces a quantitative framework for building robust portfolios using a blend of Pareto analysis, metaheuristics, and multi-dimensional risk modeling. By combining robust normalization, multi-objective weighting and genetic search, the approach uncovers efficient configurations that standard Markowitz models cannot reach.
